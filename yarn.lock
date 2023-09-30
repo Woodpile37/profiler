@@ -2109,10 +2109,10 @@
     "@testing-library/dom" "^9.0.0"
     "@types/react-dom" "^18.0.0"
 
-"@tgwf/co2@^0.13.6":
-  version "0.13.6"
-  resolved "https://registry.yarnpkg.com/@tgwf/co2/-/co2-0.13.6.tgz#9e693d93b6241d1cd501a1d06f98e1449aa96823"
-  integrity sha512-uV8y2voiAb9iQwzK+5dTFLNBu5P5/oCyMAvqD3/+X74sMCc/N2+4MhIY9JmpO1gBQykE647dd4l/40GiE7cKSw==
+"@tgwf/co2@^0.14.0":
+  version "0.14.0"
+  resolved "https://registry.yarnpkg.com/@tgwf/co2/-/co2-0.14.0.tgz#1373d5ca57cbc8e7b6d18ff9798b72b4bf790478"
+  integrity sha512-is1+Xjd0YJrgTtLM1PXBqomgbih69jzVc1OMonAk8eDAHmey7Tr7pPs/FUtl+gqs3aPJMqBtNCipHOB2AZvBKg==
 
 "@tootallnate/once@1":
   version "1.1.2"
